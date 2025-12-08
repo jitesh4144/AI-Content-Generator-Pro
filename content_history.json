@@ -1,0 +1,58 @@
+[
+  {
+    "keyword": "roses are red and voilet",
+    "content_type": "Poem",
+    "language": "Marathi",
+    "tone": "Romantic",
+    "audience": "Adults",
+    "rhyme_scheme": "Free Verse",
+    "length_words": 50,
+    "tags": "",
+    "output": "Here's a Marathi poem adhering to your request:\n\nगुलाब लाल, जांभळी जाई,\nरंग हे प्रीतीचे, हृदयी दाटी.\nश्वासात श्वास, नयनी रूप तुझे,\nअमृताहून गोड, प्रेम हे माझे.\nतूच ध्यास, तूच श्वास,\nअनंत जन्मांचा सहवास.",
+    "id": 1,
+    "timestamp": "2025-10-29T12:53:27.771785",
+    "favorite": false
+  },
+  {
+    "keyword": "sgu",
+    "content_type": "Poem",
+    "language": "Hindi",
+    "tone": "Inspirational",
+    "audience": "General",
+    "rhyme_scheme": "Free Verse",
+    "length_words": 50,
+    "tags": "",
+    "output": "Here's a short Hindi poem about SGU (St. George's University), keeping in mind its Caribbean location and medical focus:\n\nनीले सागर, ऊँचे पेड़,\nसेंट जॉर्ज का है ये देश।\nडॉक्टर बनने का है सपना,\nयहाँ मिलता है वो अपना।\nज्ञान की धारा बहती यहाँ,\nसेवा का मार्ग है खुला जहाँ।",
+    "id": 2,
+    "timestamp": "2025-10-29T17:03:29.511590",
+    "favorite": false
+  },
+  {
+    "keyword": "sucess",
+    "content_type": "Poem",
+    "language": "English",
+    "tone": "Inspirational",
+    "audience": "General",
+    "rhyme_scheme": "Free Verse",
+    "length_words": 112,
+    "tags": "",
+    "output": "Success is not a destination grand,\nBut a journey, hand in willing hand.\nIt's the climb, the stumble, then the rise,\nReflected wisdom in our weary eyes.\n\nNot measured by a trophy's gleam,\nBut by the power of a heartfelt dream.\nThe courage to pursue, to dare, to try,\nBeneath a boundless, ever-changing sky.\n\nIt's finding joy in work, in every deed,\nPlanting kindness, scattering a seed.\nA tapestry of moments, woven tight,\nIlluminating darkness with our light.\n\nSuccess is peace, a quiet inner hum,\nKnowing you became the best to come.\nIt's not the end, but where you start again.\nA victory is earned, not given in.",
+    "id": 3,
+    "timestamp": "2025-10-29T17:20:29.098862",
+    "favorite": false
+  },
+  {
+    "keyword": "red roses , rainy weather,rainbow in sky ,people in rush on streets",
+    "content_type": "Poem",
+    "language": "Hindi",
+    "tone": "Inspirational",
+    "audience": "General",
+    "rhyme_scheme": "Free Verse",
+    "length_words": 72,
+    "tags": "",
+    "output": "ज़रूर, यहाँ एक छोटी कविता है:\n\nलाल गुलाब भीगे, बारिश की बूंदें झिलमिलाती,\nसड़कों पर भागे लोग, छाता लिए जाते।\nआकाश में इन्द्रधनुष, रंग बिखेरे सात,\nआशा की किरण, जीवन का संगीत।\nमौसम का जादू, दिल में उमंग भरता,\nहर रंग में, एक नया सवेरा खिलता।",
+    "id": 4,
+    "timestamp": "2025-10-29T23:59:59.348653",
+    "favorite": false
+  }
+]
