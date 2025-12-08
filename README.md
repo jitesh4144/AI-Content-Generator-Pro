@@ -16,4 +16,4 @@ Users can input any topic such as: Love, Success, Adventure, Dreams, Life, Motiv
 
 ✅ Add custom tags for organization
 
-✅ One-click Generate button for instant results
+✅ One-click Generate button for instant results.
